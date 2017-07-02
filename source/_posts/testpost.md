@@ -1,5 +1,5 @@
 ---
 title: testpost
-type: "categories"
+category: "test"
 ---
 ## 测试12
