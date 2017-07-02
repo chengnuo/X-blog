@@ -1,5 +1,5 @@
 ---
-title: testpost1
-date: 2017-07-01 21:52:50
-tags:
+title: testpost
+type: "categories"
 ---
+## 测试12
