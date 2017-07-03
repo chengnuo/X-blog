@@ -5,6 +5,7 @@ category: hexo
 ---
 
 ## 快速启动
+
 ### 进入hexo中文官网页面
 
 ``` bash
@@ -26,7 +27,7 @@ $ hexo server
 ``` bash
 http://localhost:4000/
 ```
-***
+
 ## 文章
 ### 写一篇文章
 
@@ -60,7 +61,6 @@ $ hexo deploy
 
 更多: [部署](https://hexo.io/zh-cn/docs/deployment.html)
 
-***
 
 ## Next主题
 
@@ -83,7 +83,7 @@ $ hexo s --debug
 ```
 
 
-### 参考文档
+## 参考文档
 hexo 中文网 [https://hexo.io/zh-cn/docs/](https://hexo.io/zh-cn/docs/)
 next 风格 [http://theme-next.iissnan.com/](http://theme-next.iissnan.com/)
 Hexo 主题使用进阶 [http://blog.csdn.net/lsshlsw/article/details/50322465](http://blog.csdn.net/lsshlsw/article/details/50322465)
