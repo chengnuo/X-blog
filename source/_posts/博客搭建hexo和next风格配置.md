@@ -4,7 +4,7 @@ date: 2017-07-03 14:00:47
 category: hexo
 ---
 
-## 快速启动
+## 1：快速启动
 
 ### 进入hexo中文官网页面
 
@@ -28,7 +28,7 @@ $ hexo server
 http://localhost:4000/
 ```
 
-## 文章
+## 2:文章
 ### 写一篇文章
 
 ``` bash
@@ -62,7 +62,7 @@ $ hexo deploy
 更多: [部署](https://hexo.io/zh-cn/docs/deployment.html)
 
 
-## Next主题
+## 3:Next主题
 
 ### 下载
 ``` bash
@@ -83,7 +83,8 @@ $ hexo s --debug
 ```
 
 
-## 参考文档
+## 4:说明
+### 参考文档
 hexo 中文网 [https://hexo.io/zh-cn/docs/](https://hexo.io/zh-cn/docs/)
 next 风格 [http://theme-next.iissnan.com/](http://theme-next.iissnan.com/)
 Hexo 主题使用进阶 [http://blog.csdn.net/lsshlsw/article/details/50322465](http://blog.csdn.net/lsshlsw/article/details/50322465)
