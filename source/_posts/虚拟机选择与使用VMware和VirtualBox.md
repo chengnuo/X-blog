@@ -24,7 +24,7 @@ category: 虚拟机
 其他系统我没用过，就先介绍这两款
 ```
 关于:[ubuntu](http://www.ubuntu.org.cn)
-关于:[centos](www.centos.org)
+关于:[centos](http://www.centos.org)
 
 
 ## 3：虚拟机的增强配置
